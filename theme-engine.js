@@ -1,0 +1,3 @@
+(()=>{const themes=[
+{id:'signature',name:'هوية SAC الأصلية',tag:'متوازنة',colors:['#061f2f','#16a6a0','#f2efe8'],vars:{navy:'#061f2f',navy2:'#0a3348',teal:'#16a6a0',sand:'#f2efe8',ink:'#10232e',muted:'#667781',line:'#dbe2e5',radius:'20px'},font:'IBM Plex Sans Arabic',style:'modern'},
+{id:'heritage',name:'تراث جدة',tag:'كلاسيكية',colors:['#3f2d20','#b88a44','#f7f0e4'],vars:{navy:'#3f2d20',navy2:'#5b4030',teal:'#b88a44',sand:'#f7f0e4',ink:'#2d2119',muted:'#786b60',line:'#dfd2c1',radius:'8
