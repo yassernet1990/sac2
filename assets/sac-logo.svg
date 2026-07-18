@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 538 389" role="img" aria-labelledby="title desc">
+  <title id="title">SAC Logistics</title><desc id="desc">Angular SAC Logistics mark</desc>
+  <style>:root{--logo-main:#061f2f;--logo-accent:#16a6a0}.group{cursor:pointer;transform-origin:center;transition:transform .3s cubic-bezier(.2,.8,.2,1),filter .3s}.part{transform-box:fill-box;transform-origin:center;fill:var(--logo-main);transition:transform .34s cubic-bezier(.2,.8,.2,1),fill .3s}svg:hover .group{transform:translateY(-3px) scale(1.03);filter:drop-shadow(0 13px 18px rgba(0,0,0,.18))}svg:hover .top{transform:translate(5px,-3px)}svg:hover .bottom{transform:translate(-8px,8px);fill:var(--logo-accent)}@media(prefers-reduced-motion:reduce){.group,.part{transition:none}}</style>
+  <g class="group"><polygon class="part top" points="77,172 211,245 277,186 166,161 193,130 365,130 434,75 170,75"/><polygon class="part bottom" points="411,200 330,185 179,321 217,358"/></g>
+</svg>
