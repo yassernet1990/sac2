@@ -1,1 +1,30 @@
-window.SAC_COPY={ar:{heroTitle:'من الطلب إلى التسليم، ندير رحلتك اللوجستية بالكامل.',heroText:'نربط مشروعك بالمعدات والشاحنات والخدمات اللوجستية المناسبة، أينما كان داخل المملكة. SAC Logistics شركة سعودية متخصصة في توفير وإدارة حلول المعدات الثقيلة والشاحنات والنقل البري والخدمات اللوجستية.',heroCta:'اطلب معدة أو شاحنة',heroExplore:'تواصل مع فريق التشغيل',introTitle:'جهة تشغيل وإدارة متكاملة لاحتياجات مشروعك.',introText:'ندرس احتياج العميل، نختار المورد المناسب، نقارن الأسعار، نجدول المعدة أو المركبة، ونتابع التشغيل والتسليم حتى اكتمال الخدمة.',services:[['تأجير المعدات الثقيلة','توفير معدات المشاريع والمقاولات حسب نوع العمل والسعة والمدة والموقع.'],['الشاحنات والنقل البري','شاحنات وتريلات لنقل مواد البناء والمعدات والبضائع والحاويات.'],['حلول المشاريع والمصانع','متطلبات تشغيلية ولوجستية دورية أو عند الطلب للمشاريع والمصانع والمستودعات.'],['نقل المواد والشحنات','تنسيق النقل من الاستلام إلى التسليم مع متابعة التحميل والمسار.'],['مقارنة الموردين والأسعار','مقارنة السعر والتوفر والموقع والقدرة التشغيلية لاختيار الحل الأنسب.'],['الصيانة والطوارئ','تنسيق الصيانة والورش وقطع الغيار وخدمات الطوارئ للمعدات والشاحنات.'],['التتبع والمتابعة','متابعة الطلب والمركبة أو المعدة حتى اكتمال التشغيل أو التسليم.']],process:[['استلام الطلب','تفاصيل المعدة أو الشاحنة والموقع والمدة والمتطلبات الفنية.'],['دراسة الاحتياج','تحديد النوع والسعة والمواصفات الأنسب.'],['اختيار المورد','مقارنة الموردين والأسعار والتوفر والقدرة التشغيلية.'],['الجدولة والتنسيق','تأكيد الحجز والوصول والتحميل ومسار التسليم.'],['المتابعة والتسليم','متابعة التنفيذ وإغلاق الطلب بنجاح.']]},en:{heroTitle:'From request to delivery, we manage the complete logistics journey.',heroText:'We connect your project with the right equipment, trucks and logistics services anywhere in Saudi Arabia. SAC Logistics manages heavy equipment, road transport and project logistics solutions.',heroCta:'Request equipment or truck',heroExplore:'Contact operations team',introTitle:'An integrated operations and logistics management partner.',introText:'We assess requirements, select suppliers, compare prices, schedule equipment or vehicles, and follow operations through final delivery.',services:[['Heavy Equipment Rental','Project equipment matched to work type, capacity, duration and location.'],['Trucks & Road Transport','Trucks and trailers for construction materials, equipment, goods and containers.'],['Project & Factory Solutions','Recurring or on-demand logistics support for projects, factories and warehouses.'],['Materials & Cargo Transport','Transport coordination from pickup through loading, routing and delivery.'],['Supplier & Price Comparison','Comparing cost, availability, location and operating capability.'],['Maintenance & Emergency','Coordination with workshops, spare parts suppliers and emergency services.'],['Tracking & Follow-up','Continuous order, vehicle and equipment follow-up until completion.']],process:[['Request','Equipment or truck details, location, duration and technical needs.'],['Assessment','Selecting the right type, capacity and specification.'],['Supplier Selection','Comparing suppliers, prices, availability and capability.'],['Scheduling','Confirming booking, arrival, loading and delivery route.'],['Delivery','Following execution through successful order closure.']]}};
+window.SAC_COPY={
+  ar:{
+    heroTitle:'المعدة المناسبة، بالمواصفة الصحيحة، من المصدر حتى موقعك.',
+    heroText:'توفر SAC Logistics حلول المعدات للمشاريع والمصانع والمستودعات في جميع مناطق المملكة، من تحديد المواصفات ومقارنة الموردين إلى تنسيق التوريد والتسليم.',
+    heroCta:'اطلب معداتك',heroExplore:'تواصل مع فريق التوريد',
+    introTitle:'شريك واحد لتوريد معدات مشروعك وتشغيله.',
+    introText:'نحوّل احتياجك التشغيلي إلى مواصفات واضحة، نختار المورد الأنسب، نقارن العروض، ونتابع التوريد والتسليم وخدمات ما بعد البيع.',
+    process:[
+      ['استلام الطلب','تحديد نوع المعدة والكمية والسعة والموقع وموعد الحاجة.'],
+      ['الدراسة الفنية','مراجعة ظروف التشغيل وتحديد المواصفة والتكوين الأنسب.'],
+      ['اختيار المصدر','مقارنة الموردين والأسعار والتوفر والقدرة على الدعم.'],
+      ['التنسيق والتوريد','متابعة الاعتمادات والحجز والنقل ووثائق التسليم.'],
+      ['التسليم والدعم','التأكد من الاستلام ومتابعة قطع الغيار وخدمة ما بعد البيع.']
+    ]
+  },
+  en:{
+    heroTitle:'The right equipment, correctly specified, sourced and delivered.',
+    heroText:'SAC Logistics supplies equipment solutions for projects, factories and warehouses across Saudi Arabia—from specification and supplier comparison to delivery coordination.',
+    heroCta:'Request equipment',heroExplore:'Contact our supply team',
+    introTitle:'One partner for your project and operational equipment.',
+    introText:'We translate operational needs into clear specifications, identify the right source, compare offers, and coordinate supply, delivery and after-sales support.',
+    process:[
+      ['Requirement','Define equipment type, quantity, capacity, location and required date.'],
+      ['Technical Review','Assess operating conditions and confirm the right specification.'],
+      ['Source Selection','Compare suppliers, pricing, availability and support capability.'],
+      ['Supply Coordination','Manage approvals, booking, transport and delivery documents.'],
+      ['Delivery & Support','Confirm handover and coordinate spares and after-sales service.']
+    ]
+  }
+};
