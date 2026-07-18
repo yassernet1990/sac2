@@ -1,5 +1,20 @@
+const hero=document.querySelector('.hero');
+if(hero){
+  const style=document.createElement('style');
+  style.textContent=`.hero{background-image:url('https://images.pexels.com/photos/34585121/pexels-photo-34585121.jpeg?auto=compress&cs=tinysrgb&w=2200')!important}.hero-video{position:absolute;inset:0;width:100%;height:100%;object-fit:cover;z-index:0}.hero-overlay{z-index:1}.hero-content{z-index:2}.hero-video-fallback .hero-video{display:none}`;
+  document.head.appendChild(style);
+  const video=document.createElement('video');
+  video.className='hero-video';
+  video.autoplay=true;video.muted=true;video.loop=true;video.playsInline=true;video.preload='metadata';
+  video.poster='https://images.pexels.com/photos/34585121/pexels-photo-34585121.jpeg?auto=compress&cs=tinysrgb&w=2200';
+  const source=document.createElement('source');
+  source.src='https://videos.pexels.com/video-files/6194507/6194507-hd_1920_1080_25fps.mp4';
+  source.type='video/mp4';video.appendChild(source);
+  video.addEventListener('error',()=>hero.classList.add('hero-video-fallback'));
+  hero.insertBefore(video,hero.firstChild);
+  const playPromise=video.play();if(playPromise&&playPromise.catch)playPromise.catch(()=>hero.classList.add('hero-video-fallback'));
+}
 const imageOverrides=document.createElement('style');imageOverrides.textContent=`
-.hero{background-image:url('https://images.pexels.com/photos/34585121/pexels-photo-34585121.jpeg?auto=compress&cs=tinysrgb&w=2200')!important;background-position:center 52%!important}
 .forklift{background-image:url('https://images.pexels.com/photos/14688876/pexels-photo-14688876.jpeg?auto=compress&cs=tinysrgb&w=1600')!important;background-position:center!important}
 .warehouse{background-image:url('https://images.pexels.com/photos/11666903/pexels-photo-11666903.jpeg?auto=compress&cs=tinysrgb&w=1400')!important;background-position:center!important}
 .loading{background-image:url('https://images.pexels.com/photos/34585143/pexels-photo-34585143.jpeg?auto=compress&cs=tinysrgb&w=1400')!important;background-position:center!important}
