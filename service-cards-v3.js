@@ -5,26 +5,26 @@
   const images=[
     'assets/services/04-backhoe-loader.webp',
     'assets/services/05-mobile-crane.webp',
-    'assets/services/06-power-generator.webp',
+    'assets/services/06-road-transport.webp',
     'assets/services/07-pallet-stacker.webp',
-    'assets/services/08-welding-equipment.webp',
+    'assets/services/08-lowbed-highbed.webp',
     'assets/services/09-forklift.webp'
   ];
   const content={
     ar:[
       ['معدات الإنشاءات الثقيلة','باكهو لودر وحفارات ولوادر ومعدات مواقع مختارة وفق طبيعة العمل والسعة ومدة التشغيل.'],
       ['الكرينات ومعدات الرفع','كرينات متنقلة وحلول رفع للمشاريع والمصانع، مع اختيار الحمولة ومدى الوصول المناسبين.'],
-      ['حلول الطاقة المؤقتة','مولدات ومعدات طاقة للمواقع والمنشآت، وفق الحمل التشغيلي ومتطلبات الاستمرارية.'],
+      ['الشاحنات والنقل البري','شاحنات وتريلات لنقل البضائع ومواد المشاريع بين المدن والموانئ والمستودعات في مختلف مناطق المملكة.'],
       ['معدات مناولة المستودعات','ستاكر وعربات منصات ومعدات مناولة مدمجة للمخازن ومراكز التوزيع.'],
-      ['معدات اللحام الصناعي','ماكينات لحام وتجهيزات مساندة لأعمال التصنيع والصيانة ومواقع المشاريع.'],
+      ['تريلات Low-bed وHigh-bed','حلول نقل للمعدات الثقيلة والحمولات والمركبات، مع اختيار نوع التريلا وفق الأبعاد والوزن ومسار النقل.'],
       ['الرافعات الشوكية','رافعات شوكية بسعات وارتفاعات رفع مختلفة للمستودعات والمصانع والساحات.']
     ],
     en:[
       ['Heavy Construction Equipment','Backhoe loaders, excavators, wheel loaders and site equipment selected for the job, capacity and operating period.'],
       ['Mobile Cranes & Lifting','Mobile cranes and lifting solutions matched to the required load, reach and project conditions.'],
-      ['Temporary Power Solutions','Generators and power equipment sized for site loads, facility needs and operational continuity.'],
+      ['Trucks & Road Transport','Trucks and trailers for moving cargo and project materials between cities, ports and warehouses across Saudi Arabia.'],
       ['Warehouse Handling Equipment','Stackers, pallet trucks and compact handling equipment for warehouses and distribution centres.'],
-      ['Industrial Welding Equipment','Welding machines and supporting equipment for fabrication, maintenance and project-site work.'],
+      ['Low-bed & High-bed Trailers','Transport solutions for heavy equipment, loads and vehicles, selected according to dimensions, weight and route conditions.'],
       ['Forklifts','Forklifts in multiple capacities and lift heights for warehouses, factories and yards.']
     ]
   };
