@@ -1,0 +1,12 @@
+window.SAC_THEMES=[
+{id:'signature',n:'SAC Signature',a:'الأصلية',c:['#061f2f','#16a6a0','#f2efe8'],font:"'IBM Plex Sans Arabic',Arial,sans-serif",v:{navy:'#061f2f',navy2:'#0a3348',teal:'#16a6a0',sand:'#f2efe8',ink:'#10232e',muted:'#667781',line:'#dbe2e5',radius:'20px'}},
+{id:'heritage',n:'Jeddah Heritage',a:'تراث جدة',c:['#3f2d20','#b88a44','#f7f0e4'],font:"'IBM Plex Sans Arabic',Arial,sans-serif",v:{navy:'#3f2d20',navy2:'#5b4030',teal:'#b88a44',sand:'#f7f0e4',ink:'#2d2119',muted:'#786b60',line:'#dfd2c1',radius:'8px'}},
+{id:'royal',n:'Royal Navy',a:'كحلي ملكي',c:['#07152e','#c9a45c','#f6f2e8'],font:"'IBM Plex Sans Arabic',Arial,sans-serif",v:{navy:'#07152e',navy2:'#10244a',teal:'#c9a45c',sand:'#f6f2e8',ink:'#101828',muted:'#667085',line:'#d9dce3',radius:'14px'}},
+{id:'future',n:'Future 2026',a:'مستقبل 2026',c:['#071b24','#00d6c9','#dffcf9'],font:"'IBM Plex Sans Arabic',Arial,sans-serif",v:{navy:'#071b24',navy2:'#0a2f3a',teal:'#00bfb4',sand:'#eafcf9',ink:'#0c2630',muted:'#55727a',line:'#cce9e5',radius:'28px'}},
+{id:'industrial',n:'Industrial Steel',a:'صناعية',c:['#20272d','#f28c28','#edf0f2'],font:"'IBM Plex Sans Arabic',Arial,sans-serif",v:{navy:'#20272d',navy2:'#303a42',teal:'#f28c28',sand:'#edf0f2',ink:'#20272d',muted:'#68747d',line:'#cfd6da',radius:'4px'}},
+{id:'minimal',n:'Swiss Minimal',a:'مينيمال',c:['#111111','#d92d20','#f7f7f5'],font:"'IBM Plex Sans Arabic',Arial,sans-serif",v:{navy:'#111111',navy2:'#282828',teal:'#d92d20',sand:'#f7f7f5',ink:'#111111',muted:'#666666',line:'#ddddda',radius:'0px'}},
+{id:'desert',n:'Saudi Desert',a:'صحراوية',c:['#4a3426','#d4a15d','#f4eadb'],font:"'IBM Plex Sans Arabic',Arial,sans-serif",v:{navy:'#4a3426',navy2:'#694a33',teal:'#c68b3c',sand:'#f4eadb',ink:'#33251c',muted:'#75685e',line:'#dfcfbb',radius:'18px'}},
+{id:'emerald',n:'Emerald Luxury',a:'زمردية فخمة',c:['#072d25','#d4af67','#eef6f2'],font:"'IBM Plex Sans Arabic',Arial,sans-serif",v:{navy:'#072d25',navy2:'#0d473b',teal:'#d4af67',sand:'#eef6f2',ink:'#102c26',muted:'#62766f',line:'#ceded8',radius:'22px'}},
+{id:'corporate',n:'Corporate Blue',a:'شركات',c:['#102a56','#2f80ed','#eef4fb'],font:"'IBM Plex Sans Arabic',Arial,sans-serif",v:{navy:'#102a56',navy2:'#183f7e',teal:'#2f80ed',sand:'#eef4fb',ink:'#132b4c',muted:'#66758a',line:'#d5dfed',radius:'12px'}},
+{id:'retro',n:'Retro Logistics',a:'ريترو قديمة',c:['#263b36','#e0b45c','#f1eadb'],font:"'IBM Plex Sans Arabic',Arial,sans-serif",v:{navy:'#263b36',navy2:'#3b554e',teal:'#d69e32',sand:'#f1eadb',ink:'#283832',muted:'#6d7a75',line:'#d7cdbb',radius:'6px'}}
+];
